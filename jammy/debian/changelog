@@ -1,10 +1,10 @@
-gz-transport12 (12.2.0-1~focal) focal; urgency=medium
+gz-transport12 (12.2.0-1~jammy) jammy; urgency=medium
 
   * gz-transport12 12.2.0-1 release
 
  -- Carlos Aguero <caguero@openrobotics.org>  Thu, 20 Apr 2023 16:37:10 +0200
 
-gz-transport12 (12.1.0-1~jammy) focal; urgency=medium
+gz-transport12 (12.1.0-1~jammy) jammy; urgency=medium
 
   * gz-transport12 12.1.0-1 release
 
