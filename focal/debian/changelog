@@ -1,3 +1,9 @@
+gz-transport12 (12.2.2-1~focal) focal; urgency=medium
+
+  * gz-transport12 12.2.2-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Thu, 07 Nov 2024 14:10:37 -0600
+
 gz-transport12 (12.2.1-1~focal) focal; urgency=medium
 
   * gz-transport12 12.2.1-1 release
